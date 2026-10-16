@@ -1,0 +1,6 @@
+{
+  "name": "final-exam",
+  "version": "1.0.0",
+  "scripts": { "test": "playwright test", "report": "playwright show-report" },
+  "devDependencies": { "@playwright/test": "latest", "@types/node": "latest" }
+}
